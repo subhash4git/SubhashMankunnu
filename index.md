@@ -7,4 +7,4 @@ Believe :-Attitude is Everything
 
 ### More 
 
-I am twitter - https://twitter.com/subhash4magic
+I am on twitter, You can follow me at  - [https://twitter.com/subhash4magic](https://twitter.com/subhash4magic)
