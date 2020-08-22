@@ -1,8 +1,7 @@
 # subhashmankunnu
-🔭 I’m Subhsh Mankunnu
-   A Windows Technology Specialist .   
+🔭 I’m basically a Windows Technology Specialist .   
    Working on good old Win32 subsystem.
-   The most stable COM,RPCand New WinRT, UWP,And more. 
+   The most stable COM,RPC and New WinRT, UWP, And more. 
    
    Believe :-Attitude is Everything
    
